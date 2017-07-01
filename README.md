@@ -11,3 +11,9 @@ No way to lose right now, and words are sorta weird (I ran the wordlist through 
 Clone the repo and run with `cargo run`. Make sure you have Rust installed, of course.
 
 This won't work on Windows, as it is dependent on Termion (a Unix-only crate). Sorry bout that.
+
+## Gameplay
+------
+[![asciicast](https://asciinema.org/a/YiZdZe6Zzr4IqOGfoVJEKOCWq.png)](https://asciinema.org/a/YiZdZe6Zzr4IqOGfoVJEKOCWq)
+
+(perfect round! I'm skilled, I know.)
